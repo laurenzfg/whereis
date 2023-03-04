@@ -187,13 +187,9 @@ fabric.properties
 # Android studio 3.1+ serialized cache file
 
 ### Intellij+all Patch ###
-# Ignore everything but code style settings and run configurations
-# that are supposed to be shared within teams.
+# Ignore everything
 
 .idea/*
-
-!.idea/codeStyles
-!.idea/runConfigurations
 
 # End of https://www.toptal.com/developers/gitignore/api/intellij+all,goland,go
 
