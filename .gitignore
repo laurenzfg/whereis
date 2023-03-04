@@ -195,3 +195,6 @@ fabric.properties
 
 # Custom
 *.iml
+
+# Mocks are generated with Make
+lib/mock/*.go
