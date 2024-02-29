@@ -2,8 +2,9 @@ package main
 
 import (
 	"WhereIs/cmd"
+	"os"
 )
 
 func main() {
-	cmd.Execute()
+	os.Exit(cmd.Execute())
 }
